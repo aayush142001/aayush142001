@@ -14,6 +14,7 @@ Hi, I'm <a href="https://aayush142001.github.io/ResumeDemo/Resume.html">[Aayush 
 - 👨🏽‍💻 I’m currently working on some projects that aims at solving real world problems.
 - 🌱I like competitive programming and taking part in programming challenges.
 - 👨🏽‍💻[University Website](https://aayushm-university.netlify.app/)
+- 👨🏽‍💻[Resume Demo](https://aayush142001.github.io/ResumeDemo/Resume.html)
 
 **Languages and Tools:**  
 
