@@ -2,9 +2,7 @@
 
 <br />
 
-<a href="https://www.linkedin.com/in/aayush-mohan-saxena-828b301b4/">
-  <img align="left" alt="Aayush LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+
 Hi, I'm <a href="https://aayush142001.github.io/ResumeDemo/Resume.html">[Aayush Mohan Saxena!]</a>, I am a Web Developer and Problem Solver🚀 from India. Currently in second year of my college.
 <br>
 <br/>
